@@ -4,4 +4,4 @@ I'm Boris Bessonov, a student of the Information Technologies and Programming de
 
 - First year student
 - Intrested in maths and programming
-- Have a minecraft server: 135.181.129.101:25696
+- Have a minecraft server: ***.***.***.101:25696
