@@ -4,4 +4,4 @@ I'm Boris Bessonov, a student of the Information Technologies and Programming de
 
 - Second year student
 - Intrested in programming and maths
-- Love C#, .NET Core
+- Love C++, Go, Rust
