@@ -2,6 +2,6 @@
 
 I'm Boris Bessonov, a student of the Information Technologies and Programming department at the ITMO University in St. Petersburg, Russia.
 
-- Second year student
+- Third year student
 - Intrested in programming and maths
-- Love C++, Go, Rust
+- Love Rust, C++, Go
